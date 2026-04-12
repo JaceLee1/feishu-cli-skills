@@ -1,0 +1,10 @@
+# Git 忽略文件
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+*.tar.gz
+*.zip
+.env
+.local
+config.json
